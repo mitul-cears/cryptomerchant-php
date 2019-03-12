@@ -9,7 +9,7 @@
             "email": "mitul.l@cearsinfotech.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "ext-curl": "*",
         "ext-json": "*"
